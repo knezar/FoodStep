@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodStep/Cells/FeedCell.swift"
+            timestampString = "568778713.100355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "getLocationFromSearchController(location:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodStep.FeedCell.getLocationFromSearchController(location: (Swift.Double, Swift.Double)) -&gt; ()"
+                  moduleName = "FoodStep"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/C4Q/Desktop/FoodStep/FoodStep/Cells/FeedCell.swift"
+                  timestampString = "571594543.699615"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;FoodStep.Venue&gt;) -&gt; () in FoodStep.FeedCell.getLocationFromSearchController(location: (Swift.Double, Swift.Double)) -&gt; ()"
+                  moduleName = "FoodStep"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/C4Q/Desktop/FoodStep/FoodStep/Cells/FeedCell.swift"
+                  timestampString = "571594543.703604"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (FoodStep.AppError) -&gt; () in FoodStep.FeedCell.getLocationFromSearchController(location: (Swift.Double, Swift.Double)) -&gt; ()"
+                  moduleName = "FoodStep"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/C4Q/Desktop/FoodStep/FoodStep/Cells/FeedCell.swift"
+                  timestampString = "571594543.7067879"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
